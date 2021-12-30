@@ -18,7 +18,7 @@ Open up a new Unity project and import the package file (SteeringBehaviorAI.unit
 
 ## Simulation
 ![ezgif com-gif-maker](https://github.com/7divs7/SteeringBehaviorAI/blob/main/steering_1.gif)
-![ezgif com-gif-maker](
+![ezgif com-gif-maker](https://github.com/7divs7/SteeringBehaviorAI/blob/main/steering_2.gif)
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
